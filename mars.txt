@@ -1,0 +1,7 @@
+some text here
+
+This is my first change!!!
+
+change to show up on github
+
+another change not on the computer
